@@ -10,6 +10,7 @@ import UIKit
 public class Helper: NSObject {
     public func doSomething() {
         print("I am doing something")
+        print("I am doing 2nd thing")
     }
 
 }
